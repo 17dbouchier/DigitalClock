@@ -22,7 +22,7 @@ body {
   background-color: #ccc;
   border: black solid 3px;
   border-radius: 4px;
-  width: 400px;
+  width: 500px;
   height: 175px;
   margin: 100px auto;
   position: relative;
@@ -38,7 +38,7 @@ body {
   font-weight: bold;
   position: absolute;
   top: -10%;
-  left: 37.9%;
+  left: 40%;
   border-radius: 6px;
 }
 
@@ -49,5 +49,7 @@ body {
   height: 100%;
   padding-top: 20px;
   font-family: 'Roboto Mono';
+  font-weight: 500;
+  font-style: italic;
   border-radius: 4px;
 }
