@@ -21,6 +21,7 @@ body {
 .main {
   background-color: #ccc;
   border: black solid 3px;
+  border-radius: 4px;
   width: 400px;
   height: 175px;
   margin: 100px auto;
@@ -38,6 +39,7 @@ body {
   position: absolute;
   top: -10%;
   left: 37.9%;
+  border-radius: 6px;
 }
 
 .clock {
@@ -47,4 +49,5 @@ body {
   height: 100%;
   padding-top: 20px;
   font-family: 'Roboto Mono';
+  border-radius: 4px;
 }
