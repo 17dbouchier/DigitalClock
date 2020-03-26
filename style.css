@@ -7,11 +7,20 @@
 }
 
 body {
-  background-color: white;
+  background-image: url('images/MountCook.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
 }
 
 .main {
   background-color: #ccc;
+  border: black solid 3px;
   width: 400px;
   height: 175px;
   margin: 100px auto;
@@ -34,7 +43,7 @@ body {
 .clock {
   background: #EBEBEB;
   text-align: center;
-  font-size: 56px;
+  font-size: 54px;
   height: 100%;
   padding-top: 20px;
   font-family: 'Roboto Mono';
